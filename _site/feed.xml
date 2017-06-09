@@ -5,38 +5,19 @@
     <description>Class statistics for CU Boulder</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jun 2017 23:53:54 -0700</pubDate>
-    <lastBuildDate>Mon, 05 Jun 2017 23:53:54 -0700</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2017 22:58:50 -0700</pubDate>
+    <lastBuildDate>Thu, 08 Jun 2017 22:58:50 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>AAST 1015 Statistics</title>
-        <description>&lt;!-- **Average grade** (4.0 scale): 3.025806427
-
-**Standard deviation in grades**(4.0 scale): 0.0
-
-**Proportion of students who dropped**: 0.101449275362
-
-**Average workload** (raw): 2.31689453125
-
-**Standard deviation in workload** (raw): 0.708911895752
-
-**Average course rating (6 point scale)**: 5.2216796875
-
-**Standard deviation in course rating (6 point scale)**: 0.0
-
-**Average instructor rating (6 point scale)**: 5.5771484375
-
-**Standard deviation in instructor rating (6 point scale)**: 0.0
-
-**Easiest instructor (based on grade)**: MAEDA, DARYL JOJI --&gt;
-&lt;head&gt;
-&lt;script src=&quot;http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+        <title>WRTG 3090 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
 &lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
 &lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
 &lt;style type=&quot;text/css&quot;&gt;@font-face {
 	font-family: &quot;Bebas Neue&quot;;
-	src: url(http://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
 	}
 	h1.Bebas { 
 		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
@@ -45,7 +26,8 @@
 &lt;/head&gt;
 &lt;body&gt;
 	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
-	&lt;script language=&quot;JavaScript&quot;&gt;$(document).ready(function() {  
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
 		var chart = {type: 'column'};
 		var title = {text: 'Grade Distribution'};
 		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
@@ -54,7 +36,7 @@
 		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
 		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
 		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
-		var credits = {enabled: false};var series= [{name: 'Percent',data: [34.0,53.0,3.0,0.0,10.0]}];
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [47.96,40.82,4.08,5.1,2.04,]}];
 		var json = {};
 		json.chart = chart;
 		json.title = title;
@@ -69,226 +51,952 @@
 	&lt;/script&gt;
 &lt;/body&gt;
 
-&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.025806427&lt;/p&gt;
+&lt;h2 id=&quot;open-topics-in-writing-advanced&quot;&gt;Open Topics in Writing: Advanced&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;(4.0 scale): 0.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2013,2014,2015,2016&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 0.101449275362&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.31689453125&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.708911895752&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; RAP&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Average course rating (6 point scale)&lt;/strong&gt;: 5.2216796875&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.2%&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Standard deviation in course rating (6 point scale)&lt;/strong&gt;: 0.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 0.88%&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Average instructor rating (6 point scale)&lt;/strong&gt;: 5.5771484375&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.0%&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating (6 point scale)&lt;/strong&gt;: 0.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 1.0&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Easiest instructor (based on grade)&lt;/strong&gt;: MAEDA, DARYL JOJI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.28&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 30.4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.68&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.23&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 3.87&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 1.12&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 4.19&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.99&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: GOODLOE, AMY TOWNSEND,GRIES,LAURIE ELLEN&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): GOODLOE, AMY TOWNSEND&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 800,001, 6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Upper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: LEC - Lecture&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor Mode&lt;/strong&gt;: P  - In Person&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/test/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/test/</guid>
+        <link>http://localhost:4000/2017/WRTG-3090/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-3090/</guid>
         
         
       </item>
     
       <item>
-        <title>Markdown Cheatsheet Demo</title>
-        <description>&lt;h2 id=&quot;typography-elements-in-one&quot;&gt;Typography Elements in One&lt;/h2&gt;
+        <title>WRTG 3040 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [53.22,41.29,4.14,0.34,1.01,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
 
-&lt;p&gt;Let’s start with a informative paragraph. &lt;strong&gt;This text is bolded.&lt;/strong&gt; But not this one! &lt;em&gt;How about italic text?&lt;/em&gt; Cool right? Ok, let’s &lt;strong&gt;&lt;em&gt;combine&lt;/em&gt;&lt;/strong&gt; them together. Yeah, that’s right! I have code to highlight, so &lt;code class=&quot;highlighter-rouge&quot;&gt;ThisIsMyCode()&lt;/code&gt;. What a nice! Good people will hyperlink away, so &lt;a href=&quot;#&quot;&gt;here we go&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;writingbusiness-society&quot;&gt;WRITING/BUSINESS-SOCIETY&lt;/h2&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
 
-&lt;h2 id=&quot;headings-h1-to-h6&quot;&gt;Headings H1 to H6&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
 
-&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
 
-&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.82%&lt;/p&gt;
 
-&lt;h4 id=&quot;h4-heading&quot;&gt;H4 Heading&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 1.69%&lt;/p&gt;
 
-&lt;h5 id=&quot;h5-heading&quot;&gt;H5 Heading&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.14%&lt;/p&gt;
 
-&lt;h6 id=&quot;h6-heading&quot;&gt;H6 Heading&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 1.65&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.42&lt;/p&gt;
 
-&lt;h2 id=&quot;footnote&quot;&gt;Footnote&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 25.5&lt;/p&gt;
 
-&lt;p&gt;Let’s say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;]. You can even add more footnotes, with link! [&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.3&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.36&lt;/p&gt;
 
-&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.77&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. –Francis of Assisi&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.61&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This theme does NOT support nested blockquotes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.26&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.61&lt;/p&gt;
 
-&lt;h2 id=&quot;list-items&quot;&gt;List Items&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: PIIRTO, JOHN,MCBREARTY, ROBERT G,ZIGMOND, ROSALYN H,ELLIS, ERIK JUSTIN,SCHRECK, ERIKA M,HIGHTOWER, NANCY ELIZABETH,HENDRY, MICHEL,MACBRIAR, ANNA E.,NORGAARD, ROLF P,WENGER, PAULA,MCARTHUR, SUSAN K,BYRD JR.,SIGMAN M,WINGATE, STEVEN,KLINGER, ERIC O,GOODLOE, AMY TOWNSEND,ALBERT, MICHELLE A.,DAHLIN, AMBER EILEEN,WILKERSON, DONALD H,BURGER, ERIC B,MCCONOMY, NEAL,KRATZKE, PETER J,ERON, DON M,BLISS, ANNE,FERRELL, TRACY L,RACHEL, NAOMI R,PEARCE, LONNI DEE,CARR, ALLISON GAIL,VON DER NUELL, TOBIN D,JACOBS, LARA M.,CLEVELAND, MATTHEW OSWALD,HANSEN, NICHOLE J,ZIZZI, MICHAEL P.,DUPLER, DOUGLAS J.,KLINGER, ELIZA G,STOCKHO, ANN CATHERINE,FRUSH, JAMI A,HOMAN, BRANDI R,LONG, DANIEL ROBERT,MYERS, SETH G,ROTHMAN, DAVID JACOB,ANGELINE, MARY,SINGER, DANIEL L,ENNIS, MICHAEL,WILLIAMS, DAVID J,MCANDREW, QUENTIN STORY,DEBELLA, DIANE ZAZZALI,MASSEY-WARREN, SARAH,GEORGESON, GAIL ELLEN,FANTALIS,MARYANNE,LUEBS-GOEDECKE, MARGARET ANN,PIEPLOW, NATHAN D,BRADBURY,KELLY SUSAN,MIYAMOTO, MARLENE E,EISERT, CHRISTINA M&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;First order list item&lt;/li&gt;
-  &lt;li&gt;Second item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): PIEPLOW, NATHAN D&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
-  &lt;li&gt;Or minuses&lt;/li&gt;
-  &lt;li&gt;Or pluses&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,005,006,007,009,011,012,013,014,016,018,020,021,022,023,025,026,028,029,030,008,010,015,017,019,024,027,032,034,035,038,040,041,031,037,042,033,036,039,043,044, 393&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
 
-&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// your module code goes here&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
 
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;reset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;    
-        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;  
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;   
-&lt;span class=&quot;p&quot;&gt;}());&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;// alerts: 1&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;// alerts: 2&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;// alerts: 0&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Upper&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
-But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
-
-&lt;h3 id=&quot;table-1-with-alignment&quot;&gt;Table 1: With Alignment&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Tables&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;table-2-with-typography-elements&quot;&gt;Table 2: With Typography Elements&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Markdown&lt;/th&gt;
-      &lt;th&gt;Less&lt;/th&gt;
-      &lt;th&gt;Pretty&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;renders&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;horizontal-line&quot;&gt;Horizontal Line&lt;/h2&gt;
-
-&lt;p&gt;The HTML &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; element is for creating a “thematic break” between paragraph-level elements. In markdown, you can create a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; with any of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;: three consecutive underscores&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;: three consecutive dashes&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;: three consecutive asterisks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;renders to:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
-
-&lt;h3 id=&quot;youtube-embedded-iframe&quot;&gt;YouTube Embedded Iframe&lt;/h3&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/n1a7o44WxNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/minion.png&quot; alt=&quot;Minion&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Footnote:&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;1: Footnote number one yeah baby!&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;2: A footnote you can link to - &lt;a href=&quot;#&quot;&gt;click here!&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
 </description>
-        <pubDate>Wed, 30 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015/markdown-cheatsheet-demo/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/markdown-cheatsheet-demo/</guid>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-3040/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-3040/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 3035 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [69.38,27.91,2.13,0.25,0.33,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;tech-comm-and-design&quot;&gt;TECH COMM AND DESIGN&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 100.0%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 1.32%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.0%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 1.3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.61&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 19.47&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.37&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.34&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.73&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.69&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.26&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.67&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: GINGRASS, HAROLD LYNN,NORGAARD, ROLF P,ELLIS, ERIK JUSTIN,SCHRECK, ERIKA M,ZIGMOND, ROSALYN H,WENGER, PAULA,MACBRIAR, ANNA E.,PIEPLOW, KATHRYN,DAHLIN, AMBER EILEEN,HENDRY, MICHEL,GOODLOE, AMY TOWNSEND,SCHABERG, PETGER J,MYERS, SETH G,PIEPLOW, NATHAN D,HENNINGSEN,MATTHEW SCOTT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): WENGER, PAULA&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,005,008,012,888,007,009,014,017,006,010, 68&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Upper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-3035/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-3035/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 3030 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [52.59,39.82,5.29,0.63,1.67,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;writingscience-society&quot;&gt;WRITING/SCIENCE-SOCIETY&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.67%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 2.66%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.32%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 2.61&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.38&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 29.12&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.46&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.39&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.62&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: WILKERSON, DONALD H,ERON, DON M,BURGER, ERIC B,BARTELS, BRADLEY C,QUINLAN, ESTHER S,HUDSON, SUZANNE,GINGRASS, HAROLD LYNN,DANEY, SUSAN PARMALEE,FREDRICKSMEYER, HARDY,ELLIS, ERIK JUSTIN,MURPHY, PAUL,RUIZ, TONY,HEDIGER, RYAN ROBERT,BLISS, ANNE,TUTTLE, VICTORIA BONNER,LYONS, TIM,BUCHANAN, ANGELA S,KNOWLTON, JENNIFER H,COLLEY, DAWN F,FELDMAN, ANDREA,DE WIND MATTINGLY, REBECCA,CLEVELAND, MATTHEW OSWALD,BRIGHAM, DANIEL ANDREW,ZIGMOND, ROSALYN H,PIEPLOW, NATHAN D,DOERSCH, CHARLES ROBERT,GREEN, SALLY EDITH,MCCHESNEY, KITTY LEE,HENDRY, MICHEL,DEBELLA, DIANE ZAZZALI,SCHABERG, PETGER J,WILLIAMS, DAVID J,ZIZZI, MICHAEL P.,WALKER, JAMES FRANKLIN,ROTHMAN, DAVID JACOB,BERTKEN, AMY MAUDE,LONG, DANIEL ROBERT,TUCKER, SETH BRADY,KLINGER, ELIZA G,DUPLER, DOUGLAS J.,NORGAARD, ROLF P,DICKSON, REBECCA,PEARCE, LONNI DEE,ENNIS, MICHAEL,RACHEL, NAOMI R,EISERT, CHRISTINA M,HARGRAVES, ORIN,WARE, JOSHUA A,PATTON, MARTHA DAVIS,HENNINGSEN,MATTHEW SCOTT,GEORGESON, GAIL ELLEN,LASSWELL, CATHY MARIE&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): LYONS, TIM&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,005,006,007,008,009,010,011,012,013,017,019,020,021,022,023,024,025,800,801,014,015,016,027,029,026,031,035,018,033,032,028,030,034,037,040,888,888R,036, 338&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Upper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-3030/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-3030/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 3020 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [44.46,45.31,7.49,0.92,1.83,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;who-killed-poetry&quot;&gt;WHO KILLED POETRY&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.51%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 3.28%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.46%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 3.27&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.27&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 30.96&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.54&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.82&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.67&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.17&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.67&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: ERON, DON M,GASSER, KAREN,KRATZKE, PETER J,FREDRICKSMEYER, HARDY,VON DER NUELL, TOBIN D,MURPHY, PAUL,DEBELLA, DIANE ZAZZALI,WILKERSON, DONALD H,LAVINSKY, JUDITH,LYONS, TIM,BRIGHAM, DANIEL ANDREW,RUIZ, TONY,ELLIS, ERIK JUSTIN,DOERSCH, CHARLES ROBERT,WITTMAN, JULIET,NICITA, LINDA M,MACBRIAR, ANNA E.,TUTTLE, VICTORIA BONNER,KUNCE, CATHERINE,MORAN, CINDY T,REILLY, KERRY ANNE,LECLAIR, MOLLY P,BLISS, ANNE,FELDMAN, ANDREA,HALL, JOAN M LORD,ELLIS, JAY,QUINLAN, ESTHER S,KNOWLTON, JENNIFER H,GREEN, SALLY EDITH,HUDSON, SUZANNE,FERRELL, TRACY L,HOUSE, VERONICA LEIGH,SCHABERG, PETGER J,GOODLOE, AMY TOWNSEND,DANEY, SUSAN PARMALEE,MCNEIL, LYNDA,WALKER, JAMES FRANKLIN,PIEPLOW, KATHRYN,BUCHANAN, ANGELA S,CLEVELAND, MATTHEW OSWALD,PIEPLOW, NATHAN D,NORGAARD, ROLF P,MATIKIEWICZ, NATASHA RADOJCIC,ARMSTRONG, JENNIFER N,LAMOS, STEVEN JOSEPH,LUEDTKE, DALYN,DICKSON, REBECCA,BURGER, ERIC B,MACDONALD, CHRISTINE,KUPETZ, JONATHAN JOSHUA,WINGATE, STEVEN,DOYLE, DAMIAN P,LASSWELL, CATHY MARIE,HIGHTOWER, NANCY ELIZABETH,ROTHMAN, DAVID JACOB,MASSEY-WARREN, SARAH,HEDIGER, RYAN ROBERT,PEARCE, LONNI DEE,BANNING, MARLIA ELISABETH,SOKEI, LYNN A.,MEREDITH, HALLIE G,ALBERT, MICHELLE A.,HANSEN, NICHOLE J,FELTENBERGER, ALAINA C,SULLIVAN, PATRICIA A,STOMMEL, JESSE J,MCCONOMY, NEAL,MCCHESNEY, KITTY LEE,OLIVIA, LEANORA,HERSH, ORLY M,MORRISSEY, MEGAN E,NICHOLAS, BRENT E,RAYMOND, ALYSSA C,MILLER, DALE LEE,WILLIAMS, DAVID J,RACHEL, NAOMI R,SONNEBORN, MATTHEW B,DUKEHART, MERRIT E.,MALESH, PATRICIA MARIE,SIARHEICHYK, HALINA,CHADHA, OLIVIA K,ZIZZI, MICHAEL P.,GRABER, DARIN T,CALDES, STEPHEN D,BERTKEN, AMY MAUDE,MCVEY, JAMES DAVIS,BYRD JR.,SIGMAN M,CHARTERIS, FRANCES,FRUSH, JAMI A,ANGELINE, MARY,TUCKER, SETH BRADY,LECARNER, THOMAS M,ROWLAND, ALLISON LOCKWOOD,VISSER, DAVID B,JONES, JAMIE,ERICKSON, BRYAN J,VAN KOOY, DANA,FOBES, ALEXANDER S,COLLEY, DAWN F,GEORGESON, GAIL ELLEN,ROSALES, CHRISTOPHER DAVID,SCHATZ, VANESSA G,JACOBS, LARA M.,CHAVEZ, JOHN M,HINK, GARY M,MICHALS, NILS D,ENNIS, MICHAEL,BECK, SHARON VALERIE,CODY, KELSEY CHARLES,HARTZELL, STEPHANIE L,DUPLER, DOUGLAS J.,FRIEDLAND, YANARA,SCLAFANI, MARIA CHRISTINA,PELZER, MARIE JAQUELIN,LEVINE, DANIEL GOULD,WARE, JOSHUA A,DIXON, LYDIA ANNE,HAWLEY, RACHEL S.,KOEBELE, ELIZABETH ANN,GAUTREAU,JUSTIN RICHARD,MORGAN,EMILY ROSE BURNS,CULLISON, JENNIFER LYNN,WALKER, TARA G,KIRTZ, JAIME LEE,OSTRO, CHRISTOPHER,BRADBURY,KELLY SUSAN,DONOVAN,LISA SUZANNE,HENNINGSEN,MATTHEW SCOTT,GRIES,LAURIE ELLEN,BARKIN,SARAH M,WENGER, PAULA,LAGMAN,EILEEN ANNE,MCFADYEN-KETCHUM, ANDREW JOHN,MELGOZA,RAUL,CASTEL,ALISON REBECCA,RAJABI, SAMIRA,SZENTKIRALYI, LEVENTE,DAIGLE, ANDREW E,MYERS, SETH G&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): VISSER, DAVID B&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,005,006,007,008,009,011,012,014,015,016,017,018,019,020,021,022,023,024,025,026,027,029,030,031,032,033,034,035,037,038,039,040,041,042,044,045,046,049,051,052,053,054,055,056,057,058,059,060,061,062,063,064,065,066,067,068,800,801,880,013,028,036,043,047,048,050,069,072,074,075,076,077,079,080,081,082,083,084,085,086,087,088,089,090,091,092,093,094,095,096,099,010,070,078,097,098,071,888,073,888R,802, 1231&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Upper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-3020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-3020/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 3007 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [45.69,43.08,7.35,1.16,2.72,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;writing-the-visual-arts&quot;&gt;WRITING-THE VISUAL ARTS&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 98.99%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 5.32%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.96%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 5.17&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.25&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 28.04&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.71&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.42&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.63&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.75&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 4.88&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.84&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: CHARTERIS, FRANCES,HIGHTOWER, NANCY ELIZABETH,OLIVIA, LEANORA,KNOWLTON, JENNIFER H,BRIGHAM, DANIEL ANDREW,MACBRIAR, ANNA E.,HUDSON, SUZANNE,WINGATE, STEVEN,QUINLAN, ESTHER S,REILLY, KERRY ANNE,MEREDITH, HALLIE G,LECLAIR, MOLLY P,CHADHA, OLIVIA K,ROWE, STEPHANIE L.,BECK, SHARON VALERIE,FOBES, ALEXANDER S,HINK, GARY M,DONOVAN,LISA SUZANNE&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): BRIGHAM, DANIEL ANDREW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,006,007,005,008,009,010,013,011,015,017,019,012,014, 101&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Upper&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: LEC - Lecture&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-3007/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-3007/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 2090 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [46.77,48.76,2.99,0.5,1.0,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;electives-in-writing&quot;&gt;ELECTIVES IN WRITING&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Spring,Fall&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.44%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 4.14%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.56%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 4.27&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.33&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 20.16&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.52&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.43&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.53&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.81&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 4.84&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.81&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: KNOWLTON, JENNIFER H,ELLIS, JAY,PIEPLOW, KATHRYN,KLINGER, ERIC O,WINGATE, STEVEN,GOODLOE, AMY TOWNSEND,HIGHTOWER, NANCY ELIZABETH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): HIGHTOWER, NANCY ELIZABETH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 002,001,003, 15&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Lower&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-2090/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-2090/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 2020 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [51.47,40.29,5.29,0.59,2.35,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;intro-creative-nonfictio&quot;&gt;INTRO CREATIVE NONFICTIO&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.48%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 3.84%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.52%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 3.93&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.34&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 26.4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.39&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.28&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 5.29&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.56&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.58&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: WINGATE, STEVEN,ELLIS, JAY,MASSEY-WARREN, SARAH,REILLY, KERRY ANNE,WITTMAN, JULIET,KNOWLTON, JENNIFER H,BURGER, ERIC B,BYRD JR.,SIGMAN M,VON DER NUELL, TOBIN D,MCBREARTY, ROBERT G&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): KNOWLTON, JENNIFER H&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002, 21&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Lower&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-2020/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 1250 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [50.38,39.15,6.56,1.16,2.75,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;advanced-1st-yr-writing&quot;&gt;ADVANCED 1ST YR WRITING&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.66%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 3.21%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.34%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 3.24&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.31&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 32.41&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.58&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.39&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.73&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.61&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.16&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.65&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: WALKER, JAMES FRANKLIN,GASSER, KAREN,DAHLIN, AMBER EILEEN,PIEPLOW, KATHRYN,KUNCE, CATHERINE,PEARCE, LONNI DEE,SCHABERG, PETGER J,NORGAARD, ROLF P,BYRD JR.,SIGMAN M,KUPETZ, JONATHAN JOSHUA,MACDONALD, CHRISTINE,CHARTERIS, FRANCES,SULLIVAN, PATRICIA A,VAN GERVEN, CLAUDIA B,MCNEIL, LYNDA,DICKSON, REBECCA,GINGRASS, HAROLD LYNN,ELLIS, JAY,LECLAIR, MOLLY P,PIEPLOW, NATHAN D,MASSEY-WARREN, SARAH,HENDRY, MICHEL,BURGER, ERIC B,HALL, JOAN M LORD,PIIRTO, JOHN,COLLEY, DAWN F,KILFOIL, CARRIE BYARS,WITTMAN, JULIET,KRATZKE, PETER J,CLEVELAND, MATTHEW OSWALD,BRIGHAM, DANIEL ANDREW,MCCHESNEY, KITTY LEE,LUEDTKE, DALYN,LAVINSKY, JUDITH,DOYLE, DAMIAN P,BASSOFF, BRUCE D,DOERSCH, CHARLES ROBERT,MURPHY, PAUL,RAYMOND, ALYSSA C,FERRELL, TRACY L,DEBELLA, DIANE ZAZZALI,CHADHA, OLIVIA K,ZIZZI, MICHAEL P.,MALESH, PATRICIA MARIE,ROTHMAN, DAVID JACOB,VON DER NUELL, TOBIN D,CARR, ALLISON GAIL,LONG, DANIEL ROBERT,VAN KOOY, DANA,FELDMAN, ANDREA,ZIGMOND, ROSALYN H,WENGER, PAULA,WILKERSON, DONALD H,LYONS, TIM,HIGHTOWER, NANCY ELIZABETH,LECARNER, THOMAS M,REILLY, KERRY ANNE,WILLIAMS, DAVID J,CHAVEZ, JOHN M,LEVINE, DANIEL GOULD,FOBES, ALEXANDER S,WALKER, TARA G,HAWLEY, RACHEL S.,DUPLER, DOUGLAS J.,GREEN, SALLY EDITH,HINK, GARY M,MCFADYEN-KETCHUM, ANDREW JOHN,LUEBS-GOEDECKE, MARGARET ANN,BECK, SHARON VALERIE,FANTALIS,MARYANNE,OSTRO, CHRISTOPHER,LATICI,JUSTIN B.,MYERS, SETH G,ARCHER, HENRY THOMAS,ALBER,CATHERINE R.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): PIEPLOW, KATHRYN&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,005,007,008,888,889,006,009,011,015,016,880,010,012,013,014,017,018,019,021,023,025,027,022,029,030,033,020,024,881,026,888R,889R,890R, 241&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Lower&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-1250/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-1250/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WRTG 1150 Statistics</title>
+        <description>&lt;head&gt;
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0&quot;&gt;&lt;/script&gt;
+&lt;!-- &lt;script src=&quot;../assets/js/highcharts.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;style type=&quot;text/css&quot;&gt;@font-face {
+	font-family: &quot;Bebas Neue&quot;;
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format(&quot;opentype&quot;);
+	}
+	h1.Bebas { 
+		font-family: &quot;Bebas Neue&quot;, Verdana, Tahoma;
+	}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&quot;container&quot; style=&quot;float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;&quot;&gt;&lt;/div&gt;
+	&lt;script language=&quot;JavaScript&quot;&gt;
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '&lt;center&gt;&lt;b&gt;&lt;span style=&quot;font-size:20px&quot;&gt;{point.key}&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;',
+		               pointFormat: '&lt;td style=&quot;padding:0&quot;&gt;&lt;b&gt;{point.y:.1f}%&lt;/b&gt;&lt;/td&gt;',
+		               footerFormat: '&lt;/table&gt;',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [42.87,42.64,9.96,1.85,2.68,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	&lt;/script&gt;
+&lt;/body&gt;
+
+&lt;h2 id=&quot;1st-yr-writingrhetoric-gt-co1&quot;&gt;1ST YR WRITING/RHETORIC GT-CO1&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Years provided&lt;/strong&gt;: 2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Terms provided&lt;/strong&gt;: Fall,Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credits&lt;/strong&gt;: 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RAP/Honors class?&lt;/strong&gt; Neither&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent grade&lt;/strong&gt;: 99.68%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent withdrawn&lt;/strong&gt;: 2.61%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Percent incomplete&lt;/strong&gt;: 0.3%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proportion of students who dropped&lt;/strong&gt;: 2.62&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average grade&lt;/strong&gt; (4.0 scale): 3.18&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in grades&lt;/strong&gt;: 34.76&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average workload&lt;/strong&gt; (raw): 2.45&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in workload&lt;/strong&gt; (raw): 0.42&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average course rating&lt;/strong&gt; (6 point scale): 4.52&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in course rating&lt;/strong&gt; (6 point scale): 0.7&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Average instructor rating&lt;/strong&gt; (6 point scale): 5.09&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard deviation in instructor rating&lt;/strong&gt; (6 point scale): 0.73&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;: PIEPLOW, NATHAN D,ZIGMOND, ROSALYN H,LASSWELL, CATHY MARIE,VON DER NUELL, TOBIN D,BRIGHAM, DANIEL ANDREW,HEDIGER, RYAN ROBERT,HIGHTOWER, NANCY ELIZABETH,LYONS, TIM,PIEPLOW, KATHRYN,DAHLIN, AMBER EILEEN,MCBREARTY, ROBERT G,MURPHY, PAUL,DEBELLA, DIANE ZAZZALI,MCNEIL, LYNDA,TUTTLE, VICTORIA BONNER,DOERSCH, CHARLES ROBERT,RAYMOND, ALYSSA C,WALKER, JAMES FRANKLIN,MASSEY-WARREN, SARAH,ARMSTRONG, JENNIFER N,WINGATE, STEVEN,KUNCE, CATHERINE,SEEGER, ANDREA YOLANDE,BURGER, ERIC B,ALBERT, MICHELLE A.,KUPETZ, JONATHAN JOSHUA,SCHRECK, ERIKA M,MALESH, PATRICIA MARIE,REILLY, KERRY ANNE,KLINGER, ELIZA G,DICKSON, REBECCA,KLINGER, ERIC O,MORAN, CINDY T,NICITA, LINDA M,CLEVELAND, MATTHEW OSWALD,WENGER, PAULA,GREEN, SALLY EDITH,HARRINGTON, AMY MARIE,MCCHESNEY, KITTY LEE,OLIVIA, LEANORA,MACDONALD, CHRISTINE,MCARTHUR, SUSAN K,PEARCE, LONNI DEE,HOUSE, VERONICA LEIGH,MATIKIEWICZ, NATASHA RADOJCIC,BYRD JR.,SIGMAN M,BOWLING, HEATHER ARRINGTON,KRATZKE, PETER J,FERRELL, TRACY L,LECLAIR, MOLLY P,RUIZ, TONY,FELDMAN, ANDREA,BREWSTER, SYLVIA FALLOW,WITTMAN, JULIET,LUEDTKE, DALYN,HENDRY, MICHEL,JONES, BRISTIN S.,LARNER-LEWIS, JONATHAN R,RUTLEDGE, LORELEI BELINDA,PIIRTO, JOHN,ELLIS, ERIK JUSTIN,DOYLE, DAMIAN P,DUKEHART, MERRIT E.,HANSEN, NICHOLE J,ELLIS, JAY,QUINLAN, ESTHER S,HUDSON, SUZANNE,ROTHMAN, DAVID JACOB,COLLEY, DAWN F,FELTENBERGER, ALAINA C,UNCAPHER, NEIL WILLARD,GREENSTEIN, M.A.,SOMMER, LUCILLE I,MCCONOMY, NEAL,DANEY, SUSAN PARMALEE,KNOWLTON, JENNIFER H,SCHABERG, PETGER J,BERTKEN, AMY MAUDE,CRUGER, KATHERINE,LYKINS, TREY,BORNSTEIN, JESSICA F,REMIEN, PETER C,STOMMEL, JESSE J,GRABER, DARIN T,HODGES, ADAM WAYNE,MAHONEY, ELLEN VOELCKERS,DE WIND MATTINGLY, REBECCA,FOBES, ALEXANDER S,SOKEI, LYNN A.,FIGGS, GEORGE L,NICHOLAS, BRENT E,GOODLOE, AMY TOWNSEND,ACKERMAN, JOHN MARTIN,CHARTERIS, FRANCES,MACBRIAR, ANNA E.,SONNEBORN, MATTHEW B,KIM, DANIEL HYUNJAE,MILLER, DALE LEE,ARCHER, LAUREN RENEL,MORRISSEY, MEGAN E,ERON, DON M,HALL, JOAN M LORD,WILKERSON, DONALD H,SIARHEICHYK, HALINA,HUDSON, NANCIE JEANNE,CARR, ALLISON GAIL,CHADHA, OLIVIA K,HERSH, ORLY M,WILLIAMS, DAVID J,ZIZZI, MICHAEL P.,VAN KOOY, DANA,MEREDITH, HALLIE G,BUTLER, MARY S.,ROACH, KORRI R,ROWLAND, ALLISON LOCKWOOD,OLSON, SHAWN KEATING,LEMPERT, WILLIAM,LOWREY, LACY,GOULD, KEVIN M,MYERS, KIMBERLY MARIE,BECK, SHARON VALERIE,NETTERLUND, ERIC LUKE,FUESTON, JENNIFER GRACE,CUSICK, TERRI L,LONG, DANIEL ROBERT,JACOBS, LARA M.,LECARNER, THOMAS M,MCVEY, JAMES DAVIS,DUPLER, DOUGLAS J.,VISSER, DAVID B,KANZLER, HAYLEIGH DANIELLE,CHASE, CLAIRE SKY,CALDES, STEPHEN D,GIOVANIELLI, TINA R.,GEORGESON, GAIL ELLEN,STOCKHO, ANN CATHERINE,HEINEN, JONATHAN BOHR,CHAPMAN, MARY JORDAN,MICHALS, SARAH,VALLEE, MICHAEL C.,D’ORAZIO, ANN LORA,SCHUYLER, LORI LUCAS,KNOX, ELIZABETH J,CODY, KELSEY CHARLES,PETERSON, KEVIN DOUGLAS,ERICKSON, BRYAN J,TEDROWE, MELISSA ANN,TUCKER, SETH BRADY,MILLERSDAUGHTER, KATHERINE E H,ESCOBEDO, JOHN L,SCLAFANI, MARIA CHRISTINA,FRUSH, JAMI A,LAMOS, STEVEN JOSEPH,NETTERLUND, LARISA MARIE,DIXON, LYDIA ANNE,EISERT, CHRISTINA M,WALKER, TARA G,TRAFTON, MARK ALBREY,GRAY, SARAH J,MICHALS, NILS D,JONES, JAMIE,COTTER, JOHN ARTHUR,HOMAN, BRANDI R,ROWE, STEPHANIE L.,ROSALES, CHRISTOPHER DAVID,STALEY, SARA J.,PELZER, MARIE JAQUELIN,CHAVEZ, JOHN M,TOZIER DE LA POTERIE, ARIELLE SEBRINE,HARTZELL, STEPHANIE L,QUANDT, AMY KATHRYN,HINK, GARY M,BOWMAN, PAUL J,HARDING, CHARLES B,WEDEMEYER, ALEX E,MYERS, SETH G,HERMANS, ADAM P,INGRAHAM, CHRISTOPHER D,MCNATT, MARISA BRISCOE,ENNIS, MICHAEL,CAMPBELL, JENNIFER LYN,ANGELINE, MARY,RACHEL, NAOMI R,HAWLEY, RACHEL S.,MIYAMOTO, MARLENE E,ARCHER, HENRY THOMAS,CULLISON, JENNIFER LYNN,KOEBELE, ELIZABETH ANN,BRADNEY, MATTHEW RAYMOND,LUEBS-GOEDECKE, MARGARET ANN,FRIEDLAND, YANARA,SINGER, DANIEL L,MCFADYEN-KETCHUM, ANDREW JOHN,OSTRO, CHRISTOPHER,KIRTZ, JAIME LEE,LEVINE, DANIEL GOULD,PATTON, MARTHA DAVIS,HARGRAVES, ORIN,FANTALIS,MARYANNE,MIN,YOUNG KYUNG,LENNON,JOSEPH PATRICK,HUDA, JUHI ZIAUL,MELGOZA,RAUL,RICHARDS,DEREK ANTHONY,MORGAN,EMILY ROSE BURNS,ALBER,CATHERINE R.,SCHMITT,RACHEL MAGEN,HESSEL, KURTIS WILLIAM,ADAMSON,GLORIA M.,GAUTREAU,JUSTIN RICHARD,RAJABI, SAMIRA,DUMAN, STEVEN ELIJAH,HENNINGSEN,MATTHEW SCOTT,SZENTKIRALYI, LEVENTE,BARKIN,SARAH M,SULLIVAN, PATRICIA A,LAGMAN,EILEEN ANNE,KHLIFAT,JAMAL A.,LATICI,JUSTIN B.,DONOVAN,LISA SUZANNE,TABATABAIE,SARA,BLOOD,LESLIE E,KINCAID, JORDAN MICHAEL,CHAPMAN,CAROLINE,HOLMAN,SCOTT FREDRICK,DANIEL,CAROLINE FRANCES,SHAFFER, MELANIE REBECCA,DRYBREAD,KRISTEN,LANG,GRETCHEN,DIONNE,TERRELL JAKE,KRYWICKI, JARAD ROBERT,DAIGLE, ANDREW E,HATFIELD,JOE EDWARD,ABIRAGI, ANTHONY A.,MARQUES, LUCIANA FERREIRA&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easiest instructor&lt;/strong&gt; (based on class grade): VISSER, DAVID B&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sections&lt;/strong&gt; (and &lt;strong&gt;number of sections&lt;/strong&gt;): 001,002,003,004,005,006,007,008,009,010,011,012,014,016,017,020,021,022,023,024,025,026,027,028,029,030,031,032,033,034,035,036,037,038,039,040,041,042,043,044,045,046,047,048,049,050,051,052,053,054,055,056,057,058,059,060,061,062,063,064,065,066,067,070,073,077,078,079,082,084,085,086,087,088,089,090,091,710,711,712,713,714,750,751,752,753,785,801,013,019,068,069,080,081,083,800,015,018,071,072,074,075,754,755,076,094,095,096,098,099,092,093,097,786,850,705,706,720,721,780,731,790,730,776,775,716,717,802,102,103,107,130R,170R,171R,172R,190R,191R,220R,221R,266R,280R,281R,370R,400R,430R,431R,460R,803,804,805,810,219R,250R,285R,286R,218R,806,807,808,100,371R,101,104,131R,173R,809, 1823&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Department&lt;/strong&gt;: PWRT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College&lt;/strong&gt;: College of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A&amp;amp;S Division&lt;/strong&gt;: Arts and Humanities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: Lower&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;: SEM - Seminar&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/WRTG-1150/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/WRTG-1150/</guid>
         
         
       </item>
