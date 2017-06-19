@@ -15,7 +15,7 @@ twitter_username: "nikhilrajaram"
 comments: true
 
 # Build settings
-permalink   : /:year/:title/
+permalink   : /:title/
 markdown    : kramdown
 highlighter : rouge
 
