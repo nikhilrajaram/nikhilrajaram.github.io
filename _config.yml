@@ -49,6 +49,7 @@ twitter_site: "@nikhilrajaram"
 gems:
   - bourbon
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # navbar pages
 navbar:
