@@ -1,0 +1,89 @@
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0"></script>
+<!-- <script src="../assets/js/highcharts.js"></script> -->
+<style type="text/css">@font-face {
+	font-family: "Bebas Neue";
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format("opentype");
+	}
+	h1.Bebas { 
+		font-family: "Bebas Neue", Verdana, Tahoma;
+	}
+</style>
+</head>
+<body>
+	<div id="container" style="float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;"></div>
+	<script language="JavaScript">
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '<center><b><span style="font-size:20px">{point.key}</span></b></center>',
+		               pointFormat: '<td style="padding:0"><b>{point.y:.1f}%</b></td>',
+		               footerFormat: '</table>',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [44.46,45.31,7.49,0.92,1.83,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	</script>
+</body>
+
+<h4 id="grade-and-workload-statistics">GRADE AND WORKLOAD STATISTICS</h4>
+
+<p><strong>Percent withdrawn</strong>: 3.28%</p>
+
+<p><strong>Percent incomplete</strong>: 0.46%</p>
+
+<p><strong>Proportion of students who dropped</strong>: 3.27%</p>
+
+<p><strong>Average grade</strong> (4.0 scale): 3.27</p>
+
+<p><strong>Standard deviation in grades</strong>: 30.96</p>
+
+<p><strong>Average workload</strong> (raw): 2.54</p>
+
+<p><strong>Standard deviation in workload</strong> (raw): 0.4</p>
+
+<h4 id="course-and-instructor-ratingsinformation">COURSE AND INSTRUCTOR RATINGS/INFORMATION</h4>
+
+<p><strong>Average course rating</strong> (6 point scale): 4.82</p>
+
+<p><strong>Standard deviation in course rating</strong> (6 point scale): 0.67</p>
+
+<p><strong>Average instructor rating</strong> (6 point scale): 5.17</p>
+
+<p><strong>Standard deviation in instructor rating</strong> (6 point scale): 0.67</p>
+
+<p><strong>Instructors</strong>: DON M ERON, KAREN GASSER, PETER J KRATZKE, HARDY FREDRICKSMEYER, TOBIN D VON DER NUELL, PAUL MURPHY, DIANE ZAZZALI DEBELLA, DONALD H WILKERSON, JUDITH LAVINSKY, TIM LYONS, DANIEL ANDREW BRIGHAM, TONY RUIZ, ERIK JUSTIN ELLIS, CHARLES ROBERT DOERSCH, JULIET WITTMAN, LINDA M NICITA, ANNA E. MACBRIAR, VICTORIA BONNER TUTTLE, CATHERINE KUNCE, CINDY T MORAN, KERRY ANNE REILLY, MOLLY P LECLAIR, ANNE BLISS, ANDREA FELDMAN, JOAN M LORD HALL, JAY ELLIS, ESTHER S QUINLAN, JENNIFER H KNOWLTON, SALLY EDITH GREEN, SUZANNE HUDSON, TRACY L FERRELL, VERONICA LEIGH HOUSE, PETGER J SCHABERG, AMY TOWNSEND GOODLOE, SUSAN PARMALEE DANEY, LYNDA MCNEIL, JAMES FRANKLIN WALKER, KATHRYN PIEPLOW, ANGELA S BUCHANAN, MATTHEW OSWALD CLEVELAND, NATHAN D PIEPLOW, ROLF P NORGAARD, NATASHA RADOJCIC MATIKIEWICZ, JENNIFER N ARMSTRONG, STEVEN JOSEPH LAMOS, DALYN LUEDTKE, REBECCA DICKSON, ERIC B BURGER, CHRISTINE MACDONALD, JONATHAN JOSHUA KUPETZ, STEVEN WINGATE, DAMIAN P DOYLE, CATHY MARIE LASSWELL, NANCY ELIZABETH HIGHTOWER, DAVID JACOB ROTHMAN, SARAH MASSEY-WARREN, RYAN ROBERT HEDIGER, LONNI DEE PEARCE, MARLIA ELISABETH BANNING, LYNN A. SOKEI, HALLIE G MEREDITH, MICHELLE A. ALBERT, NICHOLE J HANSEN, ALAINA C FELTENBERGER, PATRICIA A SULLIVAN, JESSE J STOMMEL, NEAL MCCONOMY, KITTY LEE MCCHESNEY, LEANORA OLIVIA, ORLY M HERSH, MEGAN E MORRISSEY, BRENT E NICHOLAS, ALYSSA C RAYMOND, DALE LEE MILLER, DAVID J WILLIAMS, NAOMI R RACHEL, MATTHEW B SONNEBORN, MERRIT E. DUKEHART, PATRICIA MARIE MALESH, HALINA SIARHEICHYK, OLIVIA K CHADHA, MICHAEL P. ZIZZI, DARIN T GRABER, STEPHEN D CALDES, AMY MAUDE BERTKEN, JAMES DAVIS MCVEY, SIGMAN M BYRD JR., FRANCES CHARTERIS, JAMI A FRUSH, MARY ANGELINE, SETH BRADY TUCKER, THOMAS M LECARNER, ALLISON LOCKWOOD ROWLAND, DAVID B VISSER, JAMIE JONES, BRYAN J ERICKSON, DANA VAN KOOY, ALEXANDER S FOBES, DAWN F COLLEY, GAIL ELLEN GEORGESON, CHRISTOPHER DAVID ROSALES, VANESSA G SCHATZ, LARA M. JACOBS, JOHN M CHAVEZ, GARY M HINK, NILS D MICHALS, MICHAEL ENNIS, SHARON VALERIE BECK, KELSEY CHARLES CODY, STEPHANIE L HARTZELL, DOUGLAS J. DUPLER, YANARA FRIEDLAND, MARIA CHRISTINA SCLAFANI, MARIE JAQUELIN PELZER, DANIEL GOULD LEVINE, JOSHUA A WARE, LYDIA ANNE DIXON, RACHEL S. HAWLEY, ELIZABETH ANN KOEBELE, JUSTIN RICHARD GAUTREAU, EMILY ROSE BURNS MORGAN, JENNIFER LYNN CULLISON, TARA G WALKER, JAIME LEE KIRTZ, CHRISTOPHER OSTRO, KELLY SUSAN BRADBURY, LISA SUZANNE DONOVAN, MATTHEW SCOTT HENNINGSEN, LAURIE ELLEN GRIES, SARAH M BARKIN, PAULA WENGER, EILEEN ANNE LAGMAN, ANDREW JOHN MCFADYEN-KETCHUM, RAUL MELGOZA, ALISON REBECCA CASTEL, SAMIRA RAJABI, LEVENTE SZENTKIRALYI, ANDREW E DAIGLE, SETH G MYERS</p>
+
+<h4 id="general-class-information">GENERAL CLASS INFORMATION</h4>
+
+<p><strong>Years provided</strong>: 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016</p>
+
+<p><strong>Terms provided</strong>: Fall, Spring</p>
+
+<p><strong>Credits</strong>: 3</p>
+
+<p><strong>RAP/Honors class?</strong> Neither</p>
+
+<p><strong>Sections</strong> (and <strong>number of sections</strong>): 001, 002, 003, 004, 005, 006, 007, 008, 009, 011, 012, 014, 015, 016, 017, 018, 019, 020, 021, 022, 023, 024, 025, 026, 027, 029, 030, 031, 032, 033, 034, 035, 037, 038, 039, 040, 041, 042, 044, 045, 046, 049, 051, 052, 053, 054, 055, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 800, 801, 880, 013, 028, 036, 043, 047, 048, 050, 069, 072, 074, 075, 076, 077, 079, 080, 081, 082, 083, 084, 085, 086, 087, 088, 089, 090, 091, 092, 093, 094, 095, 096, 099, 010, 070, 078, 097, 098, 071, 888, 073, 888R, 802, 1231</p>
+
+<p><strong>Department</strong>: PWRT</p>
+
+<p><strong>College</strong>: College of Arts and Sciences</p>
+
+<p><strong>A&amp;S Division</strong>: Arts and Humanities</p>
+
+<p><strong>Level</strong>: Upper</p>
+
+<p><strong>Activity</strong>: SEM - Seminar</p>

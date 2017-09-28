@@ -1,0 +1,89 @@
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0"></script>
+<!-- <script src="../assets/js/highcharts.js"></script> -->
+<style type="text/css">@font-face {
+	font-family: "Bebas Neue";
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue%20Regular.otf) format("opentype");
+	}
+	h1.Bebas { 
+		font-family: "Bebas Neue", Verdana, Tahoma;
+	}
+</style>
+</head>
+<body>
+	<div id="container" style="float: right; width: 45%; height: 88%; margin-left: 2.5%; margin-right: 2.5%;"></div>
+	<script language="JavaScript">
+		$(document).ready(function() {
+		var chart = {type: 'column'};
+		var title = {text: 'Grade Distribution'};
+		var xAxis = {categories: ['A','B','C','D','F'],crosshair: true};
+		var yAxis = {min: 0,title: {text: 'Percentage'}};
+		var tooltip = {headerFormat: '<center><b><span style="font-size:20px">{point.key}</span></b></center>',
+		               pointFormat: '<td style="padding:0"><b>{point.y:.1f}%</b></td>',
+		               footerFormat: '</table>',shared: true,useHTML: true};
+		var plotOptions = {column: {pointPadding: 0.0,borderWidth: 0}};  
+		var credits = {enabled: false};var series= [{name: 'Percent',data: [80.0,20.0,0.0,0.0,0.0,]}];
+		var json = {};
+		json.chart = chart;
+		json.title = title;
+		json.tooltip = tooltip;
+		json.xAxis = xAxis;
+		json.yAxis = yAxis;  
+		json.series = series;
+		json.plotOptions = plotOptions;  
+		json.credits = credits;
+		$('#container').highcharts(json);
+	});
+	</script>
+</body>
+
+<h4 id="grade-and-workload-statistics">GRADE AND WORKLOAD STATISTICS</h4>
+
+<p><strong>Percent withdrawn</strong>: 0.0%</p>
+
+<p><strong>Percent incomplete</strong>: 0.0%</p>
+
+<p><strong>Proportion of students who dropped</strong>: 0.0%</p>
+
+<p><strong>Average grade</strong> (4.0 scale): 3.78</p>
+
+<p><strong>Standard deviation in grades</strong>: 4.95</p>
+
+<p><strong>Average workload</strong> (raw): 2.38</p>
+
+<p><strong>Standard deviation in workload</strong> (raw): 0.18</p>
+
+<h4 id="course-and-instructor-ratingsinformation">COURSE AND INSTRUCTOR RATINGS/INFORMATION</h4>
+
+<p><strong>Average course rating</strong> (6 point scale): 5.5</p>
+
+<p><strong>Standard deviation in course rating</strong> (6 point scale): 0.5</p>
+
+<p><strong>Average instructor rating</strong> (6 point scale): 5.85</p>
+
+<p><strong>Standard deviation in instructor rating</strong> (6 point scale): 0.15</p>
+
+<p><strong>Instructors</strong>: CARLO CABALLERO, JEREMY L SMITH</p>
+
+<h4 id="general-class-information">GENERAL CLASS INFORMATION</h4>
+
+<p><strong>Years provided</strong>: 2015, 2016</p>
+
+<p><strong>Terms provided</strong>: Spring, Fall</p>
+
+<p><strong>Credits</strong>: 3</p>
+
+<p><strong>RAP/Honors class?</strong> Neither</p>
+
+<p><strong>Sections</strong> (and <strong>number of sections</strong>): 001, 2</p>
+
+<p><strong>Department</strong>: MUSC</p>
+
+<p><strong>College</strong>: College of Music</p>
+
+<p><strong>Level</strong>: Upper</p>
+
+<p><strong>Activity</strong>: LEC - Lecture</p>
+
+<p><strong>Instructor Mode</strong>: P  - In Person</p>

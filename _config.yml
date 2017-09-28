@@ -1,21 +1,21 @@
 
 # SEO settings
-title: "CU "
-title2: "Stats" # default: ""
-description: "Class statistics for CU Boulder"
-keywords: "University, of, Colorado, Boulder, class, statistics, grades"
-url: http://nikhilrajaram.github.io/ # site url
+title: "Nikhil"
+title2: " Rajaram" # default: ""
+description: "University of Colorado Boulder"
+keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-101341502-1
 repo: http://github.com/nikhilrajaram/nikhilrajaram.github.io
-#disqus_shortname: "hnbloggithub"
-twitter_username: "nikhilrajaram"
+disqus_shortname: ""
+twitter_username: "herecomestheraj"
 comments: true
 
 # Build settings
-permalink   : /:title/
+permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
@@ -44,12 +44,11 @@ author:
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@nikhilrajaram"
+twitter_site: "@herecomestheraj"
 
 gems:
   - bourbon
   - jekyll-paginate
-  - jekyll-seo-tag
 
 # navbar pages
 navbar:

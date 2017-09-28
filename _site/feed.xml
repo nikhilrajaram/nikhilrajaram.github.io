@@ -1,344 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CU </title>
-    <description>Class statistics for CU Boulder</description>
+    <title>Nikhil</title>
+    <description>University of Colorado Boulder</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jun 2017 08:46:22 -0700</pubDate>
-    <lastBuildDate>Wed, 21 Jun 2017 08:46:22 -0700</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2017 17:45:11 -0600</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2017 17:45:11 -0600</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Writing and Rhetoric</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-1150&quot;&gt;WRTG 1150: 1ST YR WRITING/RHETORIC GT-CO1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-1250&quot;&gt;WRTG 1250: ADVANCED 1ST YR WRITING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-2020&quot;&gt;WRTG 2020: INTRO CREATIVE NONFICTIO&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-2090&quot;&gt;WRTG 2090: ELECTIVES IN WRITING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-3007&quot;&gt;WRTG 3007: WRITING-THE VISUAL ARTS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-3020&quot;&gt;WRTG 3020: WHO KILLED POETRY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-3030&quot;&gt;WRTG 3030: WRITING/SCIENCE-SOCIETY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-3035&quot;&gt;WRTG 3035: TECH COMM AND DESIGN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-3040&quot;&gt;WRTG 3040: WRITING/BUSINESS-SOCIETY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WRTG-3090&quot;&gt;WRTG 3090: Open Topics in Writing: Advanced&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
+        <title>CU Grade distributions and Class Statistics</title>
+        <description>&lt;p&gt;The University of Colorado Boulder publishes grade distributions and faculty course questionaire (FCQ) results &lt;a href=&quot;http://www.colorado.edu/fcq/forms-and-reports/grade-distributions-and-fcq-ratings-course&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;Course Departments&lt;/h1&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/AAST&quot;&gt;Asian American Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ACCT&quot;&gt;Accounting&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/AIRR&quot;&gt;Air Force Aerospace Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/AIST&quot;&gt;American Indian Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/AMST&quot;&gt;American Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ANTH&quot;&gt;Anthropology&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/APPM&quot;&gt;Applied Math&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/APRD&quot;&gt;Advertising, PR, Media Design&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ARAB&quot;&gt;Arabic Languages&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ARCH&quot;&gt;Architecture&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/AREN&quot;&gt;Architectural Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ARSC&quot;&gt;Arts &amp;amp; Sciences Courses&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ARTF&quot;&gt;Art Film Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ARTH&quot;&gt;Art History&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ARTS&quot;&gt;Art Studio and Non-Studio&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ASEN&quot;&gt;Aerospace Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ASIA&quot;&gt;Asian Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ASTR&quot;&gt;Astrophysical &amp;amp; Planetary Sci&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ATLS&quot;&gt;ATLAS&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ATOC&quot;&gt;Atmospheric &amp;amp; Oceanic Sciences&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BADM&quot;&gt;Business Administration&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BAKR&quot;&gt;Baker Residential Acad Prgm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BASE&quot;&gt;BCOR Applied Semester Exper&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BCOR&quot;&gt;Business Core&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BLST&quot;&gt;Afroamerican Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BMEN&quot;&gt;Biomedical Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BSLW&quot;&gt;Business Law&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/BUSM&quot;&gt;Business Minor&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CAMW&quot;&gt;Center of the American West&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CESR&quot;&gt;Curr Emphasis in Soc Respnsbly&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CHEM&quot;&gt;Chemistry&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CHEN&quot;&gt;Chemical Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CHIN&quot;&gt;Chinese&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CHST&quot;&gt;Chicano/a Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CLAS&quot;&gt;Classics&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CMCI&quot;&gt;Coll of Media,Commncation,Info&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CMDP&quot;&gt;Critical Media Practices&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/COEN&quot;&gt;Coll of Engineerng&amp;amp;App Sci Adm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/COML&quot;&gt;Comparative Literature&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/COMM&quot;&gt;Communication&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/COMR&quot;&gt;Communication Res Acad Prgm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CSCI&quot;&gt;Computer Science&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CVEN&quot;&gt;Civil Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/CWCV&quot;&gt;Center for Western Civilizatio&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/DANE&quot;&gt;Danish&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/DNCE&quot;&gt;Dance&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EALC&quot;&gt;East Asian Langs &amp;amp; Civilzatns&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EBIO&quot;&gt;Ecology &amp;amp; Evolutionary Biology&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ECEN&quot;&gt;Electrical &amp;amp; Computer Engr&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ECON&quot;&gt;Economics&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EDUC&quot;&gt;Education&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EHON&quot;&gt;Engineering Honors&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EMEN&quot;&gt;Engineering Management&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EMUS&quot;&gt;Music Ensemble&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ENEN&quot;&gt;Energy Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ENGL&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ENST&quot;&gt;Environment and Sustainability&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ENVD&quot;&gt;Environmental Design&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ENVM&quot;&gt;Master of the Environment&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ENVS&quot;&gt;Environmental Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ESBM&quot;&gt;Entrepren &amp;amp; Small Bus Mgmt&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ETHN&quot;&gt;Ethnic Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/EVEN&quot;&gt;Environmental Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/FARR&quot;&gt;Farrand Residential Acad Prgm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/FILM&quot;&gt;Film Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/FNCE&quot;&gt;Finance&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/FREN&quot;&gt;French&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/FRSI&quot;&gt;Farsi&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GEEN&quot;&gt;General Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GEOG&quot;&gt;Geography&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GEOL&quot;&gt;Geological Sciences&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GREK&quot;&gt;Classical Greek Language&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GRMN&quot;&gt;German&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GSAP&quot;&gt;Global Studies Res Acad Prgm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/GSLL&quot;&gt;Germanic &amp;amp; Slavic Lang &amp;amp; Lit&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HEBR&quot;&gt;Hebrew&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HIND&quot;&gt;Hindi&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HIST&quot;&gt;History&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HNDI&quot;&gt;HNDI&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HONR&quot;&gt;Honors&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HUEN&quot;&gt;Humanities for Engineers&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/HUMN&quot;&gt;Humanities&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/IAFS&quot;&gt;International Affairs&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/IAWP&quot;&gt;Intrmedia Art,Wrtg,Performance&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/INBU&quot;&gt;International Business Cert&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/INDO&quot;&gt;Indonesian&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/INFO&quot;&gt;Information Science&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/INVS&quot;&gt;INVST Community Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/IPHY&quot;&gt;Integrative Physiology&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/ITAL&quot;&gt;Italian&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/JOUR&quot;&gt;Journalism&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/JPNS&quot;&gt;Japanese&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/JRNL&quot;&gt;Journalism&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/JWST&quot;&gt;Jewish Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/KREN&quot;&gt;Korean&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LATN&quot;&gt;Latin Language&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LAWS&quot;&gt;Law School&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LDSP&quot;&gt;Leadership Res Acad Prgrm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LEAD&quot;&gt;Leadership Minor&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LGBT&quot;&gt;Lesbn/Gay/Bisexual Stdys&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LIBB&quot;&gt;Libby Residential Acad Prgm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/LING&quot;&gt;Linguistics&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MATH&quot;&gt;Mathematics&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MBAC&quot;&gt;MBA Core&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MBAX&quot;&gt;MBA Advanced Electives&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MCDB&quot;&gt;Molecular Cell &amp;amp; Dev Biology&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MCEN&quot;&gt;Mechanical Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MDST&quot;&gt;Media Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MEMS&quot;&gt;Medieval &amp;amp; Early Modern Stdys&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MGMT&quot;&gt;Management&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MILR&quot;&gt;Military Science&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MKTG&quot;&gt;Marketing&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MSBC&quot;&gt;MS Business Core&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MSBX&quot;&gt;MS Business Electives&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MSEN&quot;&gt;Materials Science&amp;amp;Engineering&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MUEL&quot;&gt;Music Electives&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MUSC&quot;&gt;Music&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/MUSM&quot;&gt;Museum&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/NAVR&quot;&gt;Naval Science&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/NRLN&quot;&gt;Norlin Scholars&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/NRSC&quot;&gt;Neuroscience&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/OPIM&quot;&gt;Operations &amp;amp; Information MGMT&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PACS&quot;&gt;Peace &amp;amp; Conflict Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PHED&quot;&gt;Physical Education&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PHIL&quot;&gt;Philosophy&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PHYS&quot;&gt;Physics&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PMUS&quot;&gt;Performance Music&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PORT&quot;&gt;Portuguese&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PRLC&quot;&gt;Presidents Leadership Class&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PSCI&quot;&gt;Political Science&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/PSYC&quot;&gt;Psychology&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/REAL&quot;&gt;Real Estate&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/RLST&quot;&gt;Religious Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/RSEI&quot;&gt;RSEI&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/RUSS&quot;&gt;Russian&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SCAN&quot;&gt;Scandinavian&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SEWL&quot;&gt;Sewall Residential Acad Prgm&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SLHS&quot;&gt;Speech, Language &amp;amp; Hearing Sci&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SOCY&quot;&gt;Sociology&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SPAN&quot;&gt;Spanish&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SSIR&quot;&gt;Sustainablty&amp;amp;Soc Innovtn  RAP&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SUST&quot;&gt;Sustainability by Design RAP&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SWED&quot;&gt;Swedish&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/SYST&quot;&gt;Systems&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/THTR&quot;&gt;Theatre&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/TLEN&quot;&gt;Telecommunications&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/TMUS&quot;&gt;Thesis Music&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/WMST&quot;&gt;Women and Gender Studies&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;li&gt;&lt;a href=&quot;../../pages/WRTG&quot;&gt;Writing and Rhetoric&lt;/a&gt;&lt;/li&gt;&lt;/h3&gt;
 </description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/WRTG/</link>
-        <guid isPermaLink="true">http://localhost:4000/WRTG/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Women and Gender Studies</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-1016&quot;&gt;WMST 1016: Sex, Gender, and Society 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2000&quot;&gt;WMST 2000: INTRO/FEMINIST STUDIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2020&quot;&gt;WMST 2020: SOC CONST/FEMIN/MASCULIN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2050&quot;&gt;WMST 2050: WOMEN AND SOCIETY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2200&quot;&gt;WMST 2200: WOMEN LITERATURE &amp;amp; ARTS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2400&quot;&gt;WMST 2400: WOMEN OF COLOR &amp;amp; ACTIVSM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2600&quot;&gt;WMST 2600: GENDER/RACE/CLASS/GLOBAL&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-2700&quot;&gt;WMST 2700: PSYC CONTEMP AMER WOMEN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3000&quot;&gt;WMST 3000: GENDER/WORK/PUB POLICY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3020&quot;&gt;WMST 3020: MTHD GEND/RACE/CLAS/SEXU&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3044&quot;&gt;WMST 3044: Race, Class, Gender, and Crime&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3090&quot;&gt;WMST 3090: CRIT THINK IN FEM STDIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3100&quot;&gt;WMST 3100: FEMINIST THEORIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3200&quot;&gt;WMST 3200: RELIG &amp;amp; FEMINIST THOUGHT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3210&quot;&gt;WMST 3210: AMERICAN INDIAN WOMEN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3220&quot;&gt;WMST 3220: WOMEN IN ISLAM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3300&quot;&gt;WMST 3300: WOMEN/LEGAL SYSTEM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3311&quot;&gt;WMST 3311: Gender and U.S. Politics:  Protest, Polls and Policy&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3314&quot;&gt;WMST 3314: Violence Against Women and Girls&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3500&quot;&gt;WMST 3500: GLOBAL GENDER ISSUES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3505&quot;&gt;WMST 3505: HIST/CONTEMP ISS BLK WMN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3510&quot;&gt;WMST 3510: Gender, Sexuality and Global Health&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3650&quot;&gt;WMST 3650: WMN &amp;amp; POLITICS/LATIN AM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3670&quot;&gt;WMST 3670: IMMIGRANT WOMEN IN ECON&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3700&quot;&gt;WMST 3700: TPC-DISNEY'S WOMEN/GIRLS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3710&quot;&gt;WMST 3710: Topics in Global Gender and Sexuality Studies&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3730&quot;&gt;WMST 3730: THIRD WORLD WOMEN/ DEVEL&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3767&quot;&gt;WMST 3767: Feminist Fictions&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3800&quot;&gt;WMST 3800: ADV WRIT/FEMINIST STUDY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3900&quot;&gt;WMST 3900: ASIAN AMERICAN WOMEN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-3940&quot;&gt;WMST 3940: Practicum in Women and Gender Studies&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4000&quot;&gt;WMST 4000: SEM-SOC ACTION LEADRSHIP&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4016&quot;&gt;WMST 4016: SEX/GENDER/SOCIETY 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4300&quot;&gt;WMST 4300: SEX, POWER, POLITICS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4400&quot;&gt;WMST 4400: Critical Inquiries in Transgender Studies&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4500&quot;&gt;WMST 4500: Gender Politics and Global Activism&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4620&quot;&gt;WMST 4620: A Global History of Sexuality: The Modern Era&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4636&quot;&gt;WMST 4636: Lesbian and Gay History: Culture and Politics and Social Change in the U.S.&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4700&quot;&gt;WMST 4700: WOMEN AND MENTAL HEALTH&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-4800&quot;&gt;WMST 4800: SR COLLOQ/FEMINIST STUDY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-5090&quot;&gt;WMST 5090: FEMINIST THEORIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-5190&quot;&gt;WMST 5190: FEMINIST METHODOLOGY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-6090&quot;&gt;WMST 6090: Feminist Theories&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-6190&quot;&gt;WMST 6190: Feminist Methodology&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/WMST-6290&quot;&gt;WMST 6290: Special Topics in Women and Gender Studies&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/WMST/</link>
-        <guid isPermaLink="true">http://localhost:4000/WMST/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Thesis Music</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TMUS-6956&quot;&gt;TMUS 6956: MASTER'S THESIS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TMUS-6957&quot;&gt;TMUS 6957: MASTER'S THESIS 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TMUS-8219&quot;&gt;TMUS 8219: DISSERTATION PROJECT 1&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/TMUS/</link>
-        <guid isPermaLink="true">http://localhost:4000/TMUS/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Telecommunications</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5020&quot;&gt;TLEN 5020: ECON COMPETITION POLICY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5106&quot;&gt;TLEN 5106: INTERNATIONAL TELECOM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5130&quot;&gt;TLEN 5130: TELECOM BUS STRATEGY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5190&quot;&gt;TLEN 5190: STANDIZATION/STAND WARS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5206&quot;&gt;TLEN 5206: International Telecommunication Policy and Best Practices&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5210&quot;&gt;TLEN 5210: PRNCPLES TELECOMM POLICY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5310&quot;&gt;TLEN 5310: TELECOM SYSTEMS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5330&quot;&gt;TLEN 5330: DATA COMMUNICATIONS 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5350&quot;&gt;TLEN 5350: SATELLITE COMMUNICATIONS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5370&quot;&gt;TLEN 5370: IP ROUTING PROTOCOLS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5380&quot;&gt;TLEN 5380: Future of Video: Technology, Policy, and Economics&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5390&quot;&gt;TLEN 5390: APPLIED JAVA PROGRAMMING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5410&quot;&gt;TLEN 5410: NETWORK MANAGEMENT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5430&quot;&gt;TLEN 5430: DATA COMMUNICATIONS 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5440&quot;&gt;TLEN 5440: MULTIMEDIA NETWORKING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5460&quot;&gt;TLEN 5460: TELECOM SYSTEMS LAB&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5462&quot;&gt;TLEN 5462: ADVANCED TELECOM LAB&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5470&quot;&gt;TLEN 5470: SIGNALING PROTOCOLS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5510&quot;&gt;TLEN 5510: WIRELESS COMMUNICATIONS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5520&quot;&gt;TLEN 5520: WIRELESS LANS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5530&quot;&gt;TLEN 5530: APPLIED NETWORK SECURITY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5540&quot;&gt;TLEN 5540: NETWORK SECURITY LAB&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5550&quot;&gt;TLEN 5550: Computer and Network Security&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5560&quot;&gt;TLEN 5560: WIRELESS SYSTEMS LAB&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5600&quot;&gt;TLEN 5600: TELECOM SEMINAR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5700&quot;&gt;TLEN 5700: RESEARCH METHODS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5710&quot;&gt;TLEN 5710: CAPSTONE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5830&quot;&gt;TLEN 5830: Special Topics&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5831&quot;&gt;TLEN 5831: Special Topics&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5832&quot;&gt;TLEN 5832: TPC-SEM: DEFINED RADIO&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5833&quot;&gt;TLEN 5833: Special Topics&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5834&quot;&gt;TLEN 5834: TPC-STNDS:BUS/LAW/POLICY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5838&quot;&gt;TLEN 5838: Special Topics&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5839&quot;&gt;TLEN 5839: TPC-COGNITIVE RADIOS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/TLEN-5920&quot;&gt;TLEN 5920: INDEPENDENT STUDY&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/TLEN/</link>
-        <guid isPermaLink="true">http://localhost:4000/TLEN/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Theatre</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-1009&quot;&gt;THTR 1009: INTRODUCTION TO THEATRE GT-AH1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-1011&quot;&gt;THTR 1011: DEV THTR 1: CLAS/THTR GT-AH1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-1019&quot;&gt;THTR 1019: THEATRE FOUNDATIONS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-1105&quot;&gt;THTR 1105: STAGE TECHNOLOGIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-1115&quot;&gt;THTR 1115: COSTUME TECHNOLOGIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2003&quot;&gt;THTR 2003: ACTING 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2021&quot;&gt;THTR 2021: DEV THTR 2:FORMS/MODRN THEATRE &amp;amp; DRAMA&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2035&quot;&gt;THTR 2035: DESIGN FUNDAMENTALS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2043&quot;&gt;THTR 2043: VOICE FOR THE STAGE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2059&quot;&gt;THTR 2059: TPC-THTR FOR SOC CHANGE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2085&quot;&gt;THTR 2085: HISTORY OF FASHION&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-2105&quot;&gt;THTR 2105: Introduction to Theatre Design&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3011&quot;&gt;THTR 3011: DEVELOP AMER MUSIC THTR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3013&quot;&gt;THTR 3013: STU 1: BLDG A CHARACTER&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3015&quot;&gt;THTR 3015: SCENE DESIGN 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3023&quot;&gt;THTR 3023: STUDIO 2/CREATING A ROLE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3031&quot;&gt;THTR 3031: DEV THTR 3: 20TH C&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3033&quot;&gt;THTR 3033: PROD RES/PRACT: ACTING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3035&quot;&gt;THTR 3035: PROD PRACTICUM-SCENERY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3043&quot;&gt;THTR 3043: ADV VOICE FOR THE STAGE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3045&quot;&gt;THTR 3045: STAGE MANAGEMENT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3053&quot;&gt;THTR 3053: ACTING 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3055&quot;&gt;THTR 3055: STAGE LIGHTING DESIGN 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3075&quot;&gt;THTR 3075: SOUND DESIGN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3085&quot;&gt;THTR 3085: HISTORY OF FASHION&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-3149&quot;&gt;THTR 3149: Professional Orientation: Exploring Professional Potentials for Theatre Majors&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4013&quot;&gt;THTR 4013: STU 3: ACTING SHAKESPEAR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4021&quot;&gt;THTR 4021: DEV THTR 4: AMER THTR/ DRAMA&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4023&quot;&gt;THTR 4023: STD 4: PLAYING STYLES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4029&quot;&gt;THTR 4029: UCB TOURING COMPANY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4033&quot;&gt;THTR 4033: MOVEMENT FOR THE ACTOR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4035&quot;&gt;THTR 4035: SCENE PAINTING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4039&quot;&gt;THTR 4039: MUSICAL THTR REPERTORY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4041&quot;&gt;THTR 4041: WOMEN &amp;amp; THEATRE/20TH CEN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4049&quot;&gt;THTR 4049: PROBLM:CONCEPTUALIZATION&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4051&quot;&gt;THTR 4051: PLAYWRITING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4059&quot;&gt;THTR 4059: TPC-ACTNG FOR THE CAMERA&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4061&quot;&gt;THTR 4061: DIRECTING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4063&quot;&gt;THTR 4063: AUDITION TECHNIQUES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4073&quot;&gt;THTR 4073: PERFORMING VOICES WOMEN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4081&quot;&gt;THTR 4081: SENIOR SEMINAR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4085&quot;&gt;THTR 4085: THEATRE MANAGEMENT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4095&quot;&gt;THTR 4095: TPC-ADV MAKE-UP TECHNIQ&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4103&quot;&gt;THTR 4103: ACTING FOR THE CAMERA&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4105&quot;&gt;THTR 4105: Theatre Make-Up Design&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4149&quot;&gt;THTR 4149: Theatre Internship&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4193&quot;&gt;THTR 4193: STUDIO 5: ENSEMBLE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-4849&quot;&gt;THTR 4849: Independent Study&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-5011&quot;&gt;THTR 5011: Seminar: Theory and Criticism&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-5031&quot;&gt;THTR 5031: RUSSIAN THEATRE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-5051&quot;&gt;THTR 5051: Special Topics in Theatre History&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-5061&quot;&gt;THTR 5061: Seminar: Asian Performance&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-5071&quot;&gt;THTR 5071: Perspectives on Directing&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-6009&quot;&gt;THTR 6009: RSCH STRAT/TECHNIQUES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-6021&quot;&gt;THTR 6021: ELIZABETH/JACOBEAN DRAMA&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/THTR-6031&quot;&gt;THTR 6031: On-Stage Studies: American Theatre&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/THTR/</link>
-        <guid isPermaLink="true">http://localhost:4000/THTR/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Systems</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-3000&quot;&gt;SYST 3000: SYSTEMS THINKING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-3030&quot;&gt;SYST 3030: MGMT/SERVICE OPERATIONS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-3100&quot;&gt;SYST 3100: BUSINESS INTELLIGENCE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-3101&quot;&gt;SYST 3101: ENTERPRISE TECHNOLOGIES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-4040&quot;&gt;SYST 4040: IT AND BUSINESS STRATEGY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-4050&quot;&gt;SYST 4050: SUPPLY CHAIN MANAGEMENT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-4060&quot;&gt;SYST 4060: MANAGING BUS PROCESSES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-4080&quot;&gt;SYST 4080: PROJECT MANAGEMENT SYSTM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-4510&quot;&gt;SYST 4510: DESIGN/USABLE BUS SYSTEM&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SYST-4900&quot;&gt;SYST 4900: INDEPENDENT STUDY&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/SYST/</link>
-        <guid isPermaLink="true">http://localhost:4000/SYST/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Swedish</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SWED-1020&quot;&gt;SWED 1020: BEGINNING SWEDISH 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SWED-1110&quot;&gt;SWED 1110: Beginning Swedish 1 - Directed Independent Language Study&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SWED-1120&quot;&gt;SWED 1120: Beginning Swedish 2 - DILS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SWED-2010&quot;&gt;SWED 2010: Intermediate Swedish 1 -DILS&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/SWED/</link>
-        <guid isPermaLink="true">http://localhost:4000/SWED/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Sustainability by Design RAP</title>
-        <description>&lt;body&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/SUST/</link>
-        <guid isPermaLink="true">http://localhost:4000/SUST/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Sustainablty&amp;Soc Innovtn  RAP</title>
-        <description>&lt;body&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/SSIR/</link>
-        <guid isPermaLink="true">http://localhost:4000/SSIR/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Spanish</title>
-        <description>&lt;body&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-1010&quot;&gt;SPAN 1010: BEGINNING SPANISH 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-1020&quot;&gt;SPAN 1020: BEGINNING SPANISH 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-1150&quot;&gt;SPAN 1150: Intensive First Year Spanish&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-2110&quot;&gt;SPAN 2110: SECOND YEAR SPANISH 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-2120&quot;&gt;SPAN 2120: SECOND YEAR SPANISH 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-2150&quot;&gt;SPAN 2150: INTENSIVE SECOND YR SPAN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-2450&quot;&gt;SPAN 2450: Catalan for Spanish Speakers&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3000&quot;&gt;SPAN 3000: ADV SPANISH LANG SKILLS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3001&quot;&gt;SPAN 3001: SPANISH CONVERSATION&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3002&quot;&gt;SPAN 3002: ADV SPANISH CONVERSATION&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3010&quot;&gt;SPAN 3010: Advanced Rhetoric and Composition&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3030&quot;&gt;SPAN 3030: PROF SPANISH/BUSINESS 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3040&quot;&gt;SPAN 3040: PROF SPANISH/BUSINESS 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3050&quot;&gt;SPAN 3050: SPAN PHONOLOGY/PHONETICS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3100&quot;&gt;SPAN 3100: LITERARY ANALYSIS/SPAN&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3120&quot;&gt;SPAN 3120: ADVANCED SPANISH GRAMMAR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3150&quot;&gt;SPAN 3150: LING ANALYSIS OF SPANISH&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3200&quot;&gt;SPAN 3200: SPANISH CULTURE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3220&quot;&gt;SPAN 3220: SPAN AM &amp;amp; BRAZIL CULTURE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3240&quot;&gt;SPAN 3240: Catalan Culture 1: Nation and Art&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3250&quot;&gt;SPAN 3250: Catalan Culture 2: Contemporary Trends and Barcelona&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3280&quot;&gt;SPAN 3280: Introduction to Catalan Literature &amp;amp; Film&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3310&quot;&gt;SPAN 3310: 20TH CENTURY SPANISH LIT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3340&quot;&gt;SPAN 3340: 20TH C SPAN-AMERICAN LIT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3700&quot;&gt;SPAN 3700: Selected Readings: Spanish Literature in Translation&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-3800&quot;&gt;SPAN 3800: Selected Readings: Latin American Literature in Translation&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4010&quot;&gt;SPAN 4010: ADV RHETORIC/COMPOSITION&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4060&quot;&gt;SPAN 4060: PROB BUS TRANSL SPAN 1&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4070&quot;&gt;SPAN 4070: PROB BUS TRANSL SPAN 2&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4110&quot;&gt;SPAN 4110: HISPANIC WOMEN WRITERS&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4150&quot;&gt;SPAN 4150: MSTRPCS SPAN LIT-1700&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4160&quot;&gt;SPAN 4160: MSTRPC SPN LIT-1700/PRES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4170&quot;&gt;SPAN 4170: MSTRPCS SP AM LIT-1898&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4180&quot;&gt;SPAN 4180: SPAN/AMER LIT 1898/PRES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4220&quot;&gt;SPAN 4220: TPC-GOLDEN AGE SPAN LIT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4430&quot;&gt;SPAN 4430: TPC-STDY SPAN/EN GRAMMAR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4450&quot;&gt;SPAN 4450: INTRO TO HISPANIC LING&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4620&quot;&gt;SPAN 4620: CERVANTES&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4650&quot;&gt;SPAN 4650: METHODS TEACHING SPANISH&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-4980&quot;&gt;SPAN 4980: THRY/METD LANG LRN/PEDAG&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5120&quot;&gt;SPAN 5120: SEM-COLONIAL LA LIT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5130&quot;&gt;SPAN 5130: SEM-LIT/CRITICAL THEORY&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5140&quot;&gt;SPAN 5140: SEM-FIC LATE MEDV IBERIA&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5200&quot;&gt;SPAN 5200: SEM-DON QUIJOTE&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5210&quot;&gt;SPAN 5210: SEM-18TH/19TH CENT CANON&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5220&quot;&gt;SPAN 5220: SEM-PSTWAR PENINSLR THTR&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5300&quot;&gt;SPAN 5300: Seminar: Spanish American Literature, Colonial Period and/or 19th Century&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5320&quot;&gt;SPAN 5320: SEM-20/21C LA NARR FICT&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5400&quot;&gt;SPAN 5400: Seminar: Spanish Phonology&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5430&quot;&gt;SPAN 5430: Seminar: Hispanic Linguistics&lt;/a&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;a href=&quot;../pages/SPAN-5440&quot;&gt;SPAN 5440: SEM-CHNG SP MORPHOSYNTAX&lt;/a&gt;&lt;/div&gt;
-&lt;/body&gt;
-</description>
-        <pubDate>Tue, 13 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/SPAN/</link>
-        <guid isPermaLink="true">http://localhost:4000/SPAN/</guid>
+        <pubDate>Wed, 27 Sep 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2017/CU-Stats/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/CU-Stats/</guid>
         
         
       </item>
