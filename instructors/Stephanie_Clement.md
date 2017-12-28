@@ -1,0 +1,123 @@
+---
+layout: page
+title: "Stephanie Clement" 
+comments: true
+description: "blanks"
+keywords: "Stephanie Clement,CU,Boulder"
+---
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0"></script>
+<!-- <script src="../assets/js/highcharts.js"></script> -->
+<style type="text/css">@font-face {
+	font-family: "Bebas Neue";
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue Regular.otf) format("opentype");
+	}
+	h1.Bebas { 
+		font-family: "Bebas Neue", Verdana, Tahoma;
+	}
+</style>
+</head>
+	   
+#### TEACHING INFORMATION
+
+**College**: College of Arts and Sciences
+
+**Classes taught**: FREN 2110, FREN 2120, FREN 2500, FREN 3050, FREN 3500, FREN 3700
+
+#### FREN 2110: Second-Year French Grammar Review and Reading 1
+
+**Terms taught**: Fall 2009, Fall 2009, Spring 2010, Spring 2010, Fall 2010, Fall 2010
+
+**Instructor rating**: 4.6
+
+**Standard deviation in instructor rating**: 0.85
+
+**Average grade** (4.0 scale): 2.85
+
+**Standard deviation in grades** (4.0 scale): 0.08
+
+**Average workload** (raw): 2.39
+
+**Standard deviation in workload** (raw): 0.18
+
+#### FREN 2120: Second-Year French Grammar Review and Reading 2
+
+**Terms taught**: Spring 2011, Spring 2011
+
+**Instructor rating**: 5.14
+
+**Standard deviation in instructor rating**: 0.43
+
+**Average grade** (4.0 scale): 3.15
+
+**Standard deviation in grades** (4.0 scale): 0.02
+
+**Average workload** (raw): 2.09
+
+**Standard deviation in workload** (raw): 0.16
+
+#### FREN 2500: Conversation in French
+
+**Terms taught**: Spring 2013, Spring 2014
+
+**Instructor rating**: 5.25
+
+**Standard deviation in instructor rating**: 0.25
+
+**Average grade** (4.0 scale): 3.59
+
+**Standard deviation in grades** (4.0 scale): 0.07
+
+**Average workload** (raw): 2.48
+
+**Standard deviation in workload** (raw): 0.37
+
+#### FREN 3050: French Composition 1
+
+**Terms taught**: Fall 2012, Fall 2012, Spring 2013
+
+**Instructor rating**: 4.18
+
+**Standard deviation in instructor rating**: 0.61
+
+**Average grade** (4.0 scale): 3.36
+
+**Standard deviation in grades** (4.0 scale): 0.12
+
+**Average workload** (raw): 2.08
+
+**Standard deviation in workload** (raw): 0.31
+
+#### FREN 3500: French Current Events: Conversation and Composition
+
+**Terms taught**: Fall 2013
+
+**Instructor rating**: 5.25
+
+**Standard deviation in instructor rating**: 0.0
+
+**Average grade** (4.0 scale): 3.56
+
+**Standard deviation in grades** (4.0 scale): 0.0
+
+**Average workload** (raw): 1.86
+
+**Standard deviation in workload** (raw): 0.0
+
+#### FREN 3700: French-American Cultural Differences
+
+**Terms taught**: Spring 2015
+
+**Instructor rating**: 5.36
+
+**Standard deviation in instructor rating**: 0.0
+
+**Average grade** (4.0 scale): 3.51
+
+**Standard deviation in grades** (4.0 scale): 0.0
+
+**Average workload** (raw): 1.91
+
+**Standard deviation in workload** (raw): 0.0
+

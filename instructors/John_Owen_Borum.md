@@ -1,0 +1,107 @@
+---
+layout: page
+title: "John Owen Borum" 
+comments: true
+description: "blanks"
+keywords: "John Owen Borum,CU,Boulder"
+---
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/pc42nxpaw1ea4o9/highcharts.js?dl=0"></script>
+<!-- <script src="../assets/js/highcharts.js"></script> -->
+<style type="text/css">@font-face {
+	font-family: "Bebas Neue";
+	src: url(https://www.filehosting.org/file/details/544349/BebasNeue Regular.otf) format("opentype");
+	}
+	h1.Bebas { 
+		font-family: "Bebas Neue", Verdana, Tahoma;
+	}
+</style>
+</head>
+	   
+#### TEACHING INFORMATION
+
+**College**: Leeds School of Business
+
+**Classes taught**: BCOR 1010, BCOR 1015, BCOR 2003, BCOR 3000, BCOR 3010
+
+#### BCOR 1010: The World of Business
+
+**Terms taught**: Fall 2011, Spring 2012, Fall 2012, Fall 2013
+
+**Instructor rating**: 5.54
+
+**Standard deviation in instructor rating**: 0.07
+
+**Average grade** (4.0 scale): 2.74
+
+**Standard deviation in grades** (4.0 scale): 0.08
+
+**Average workload** (raw): 2.59
+
+**Standard deviation in workload** (raw): 0.16
+
+#### BCOR 1015: The World of Business
+
+**Terms taught**: Spring 2016, Spring 2016, Spring 2016, Spring 2016, Spring 2016, Spring 2016, Fall 2016, Fall 2016
+
+**Instructor rating**: 5.16
+
+**Standard deviation in instructor rating**: 0.39
+
+**Average grade** (4.0 scale): 2.88
+
+**Standard deviation in grades** (4.0 scale): 0.22
+
+**Average workload** (raw): 1.75
+
+**Standard deviation in workload** (raw): 0.32
+
+#### BCOR 2003: Business Law, Ethics and Social Responsibility
+
+**Terms taught**: Fall 2015, Fall 2015, Fall 2015, Fall 2015, Fall 2015, Fall 2015, Fall 2016, Fall 2016
+
+**Instructor rating**: 5.64
+
+**Standard deviation in instructor rating**: 0.2
+
+**Average grade** (4.0 scale): 2.99
+
+**Standard deviation in grades** (4.0 scale): 0.14
+
+**Average workload** (raw): 2.24
+
+**Standard deviation in workload** (raw): 0.22
+
+#### BCOR 3000: Business Law, Ethics, and Public Policy
+
+**Terms taught**: Spring 2011, Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015
+
+**Instructor rating**: 5.63
+
+**Standard deviation in instructor rating**: 0.16
+
+**Average grade** (4.0 scale): 2.97
+
+**Standard deviation in grades** (4.0 scale): 0.07
+
+**Average workload** (raw): 2.37
+
+**Standard deviation in workload** (raw): 0.16
+
+#### BCOR 3010: Business Applications of Social Responsibility
+
+**Terms taught**: Spring 2012, Spring 2013, Spring 2013, Spring 2014, Spring 2014, Fall 2014, Fall 2014, Spring 2015, Spring 2015, Spring 2016
+
+**Instructor rating**: 5.54
+
+**Standard deviation in instructor rating**: 0.19
+
+**Average grade** (4.0 scale): 3.01
+
+**Standard deviation in grades** (4.0 scale): 0.05
+
+**Average workload** (raw): 2.17
+
+**Standard deviation in workload** (raw): 0.19
+
